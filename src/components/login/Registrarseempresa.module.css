@@ -11,7 +11,7 @@ body {
 }
 
 .loginandregister > a {
-    background-color: #4CAF50; /* Green */
+    background-color: #cd5ce9; /* Green */
     border: none;
     color: white;
     padding: 15px 32px;
@@ -43,7 +43,7 @@ body {
 
 .formregister {
     width: 400px;
-    background: #ea910d;
+    background: #b468c0;
     padding: 30px;
     margin: 10px auto 20px;
     border-radius: 4px;

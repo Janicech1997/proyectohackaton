@@ -12,13 +12,13 @@ body {
 .formlogin {
     width: 400px;
     height: 340px;
-    background: #d27224;
+    background: #a071b4;
     margin: auto;
     margin-top: 150px;
     margin-bottom: 150px;
     box-shadow: 7px 13px 37px #000;
     padding: 20px 60px;
-    border-top: 4px solid #8f5518;
+    border-top: 4px solid #a071b4;
     color: white;
     text-align: center;
 }

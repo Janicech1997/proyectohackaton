@@ -8,7 +8,7 @@ const Registrarseempresa = () => {
   const [userData, setUserData] = useState()
   
    const saverUser = async()=>{
-    const url = 'http://localhost:5000/users/signup'
+    const url = 'https://adaptability-8f9de-default-rtdb.firebaseio.com/newcontact.json'
     const result = await axios.post(url, userData)
     window.location.replace("./login");
     console.log(result)
